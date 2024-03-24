@@ -1,4 +1,4 @@
-# spelling-bee
+# New York Times's Spelling Bee Clone
 
 This is a clone of the New York Times's Spelling Bee game and it was done in Java.
 
