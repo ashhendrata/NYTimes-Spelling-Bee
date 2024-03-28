@@ -3,7 +3,9 @@
 **How many words can you come up with given 7 letters?**
 
 *Climb the ranks as you become an expert at spelling! &nbsp;
+
 ✅  Beginner &nbsp;
+
 ✅  Good Start
 ✅  Moving Up
 ✅  Good
