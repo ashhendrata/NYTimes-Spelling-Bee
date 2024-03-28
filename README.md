@@ -19,10 +19,11 @@
 🌼  1 point: Valid words containing four characters<br>
 🌼  1 point per letter: Valid words longer than four characters<br>
 🌼  Extra 7 points: Valid words with all seven hive letters<br>
+<br>
 
 https://github.com/ashhendrata/NYTimes-Spelling-Bee/assets/134671782/a76ae604-49b9-4e41-a576-71e34b3032ea
 
-
+<br>
 ## A summary of what I accomplished:
 - Implemented a responsive keyboard listener integrated with the GUI, improving user interactions and accessibility
 - Efficiently managed debug toggles, allowing for precise modifications to the game's logic and swift resolution of
