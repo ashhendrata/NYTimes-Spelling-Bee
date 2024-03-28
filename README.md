@@ -2,7 +2,7 @@
 
 **How many words can you come up with given 7 letters?**
 
-*If you're anything like me, spelling is not your forte. Play this game if you're up for a challenge! *
+*If you're anything like me, spelling is not your forte. Play this game if you're up for a challenge!*
 
 ## Climb the ranks as you become an expert at spelling!
 ✅  Beginner<br>
