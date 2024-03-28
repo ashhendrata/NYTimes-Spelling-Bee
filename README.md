@@ -2,7 +2,7 @@
 
 **How many words can you come up with given 7 letters?**
 
-*Climb the ranks as you become an expert at spelling!<br>
+## Climb the ranks as you become an expert at spelling!
 ✅  Beginner<br>
 ✅  Good Start<br>
 ✅  Moving Up<br>
@@ -11,12 +11,12 @@
 ✅  Nice<br>
 ✅  Great<br>
 ✅  Amazing<br>
-✅  Genius*
+✅  Genius
 
 ## Here's how the scoring works:
-🌼  1 point: Valid words containing four characters &nbsp;
-🌼  1 point per letter: Valid words longer than four characters &nbsp;
-🌼  Extra 7 points: Valid words with all seven hive letters &nbsp;
+🌼  1 point: Valid words containing four characters<br>
+🌼  1 point per letter: Valid words longer than four characters<br>
+🌼  Extra 7 points: Valid words with all seven hive letters<br>
 
 https://github.com/ashhendrata/NYTimes-Spelling-Bee/assets/134671782/a76ae604-49b9-4e41-a576-71e34b3032ea
 
