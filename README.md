@@ -1,4 +1,4 @@
-# New York Times's Spelling Bee Clone
+# 🍯 NYT's Spelling Bee Clone 🐝
 
 
 https://github.com/ashhendrata/NYTimes-Spelling-Bee/assets/134671782/a76ae604-49b9-4e41-a576-71e34b3032ea
