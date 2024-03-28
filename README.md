@@ -2,17 +2,15 @@
 
 **How many words can you come up with given 7 letters?**
 
-*Climb the ranks as you become an expert at spelling! &nbsp;
-
-✅  Beginner &nbsp;
-
-✅  Good Start
-✅  Moving Up
-✅  Good
-✅  Solid
-✅  Nice
-✅  Great
-✅  Amazing
+*Climb the ranks as you become an expert at spelling!<br>
+✅  Beginner<br>
+✅  Good Start<br>
+✅  Moving Up<br>
+✅  Good<br>
+✅  Solid<br>
+✅  Nice<br>
+✅  Great<br>
+✅  Amazing<br>
 ✅  Genius*
 
 ## Here's how the scoring works:
