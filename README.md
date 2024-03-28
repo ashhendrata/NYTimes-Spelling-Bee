@@ -4,7 +4,7 @@
 
 *If you're anything like me, spelling is not your forte. Play this game if you're up for a challenge!*
 
-## Climb the ranks as you become an expert at spelling!
+### Climb the ranks as you become an expert at spelling!
 ✅  Beginner<br>
 ✅  Good Start<br>
 ✅  Moving Up<br>
@@ -15,7 +15,7 @@
 ✅  Amazing<br>
 ✅  Genius
 
-## Here's how the scoring works:
+### Here's how the scoring works:
 🌼  1 point: Valid words containing four characters<br>
 🌼  1 point per letter: Valid words longer than four characters<br>
 🌼  Extra 7 points: Valid words with all seven hive letters<br>
